@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center"> 
-      <img src="recons.jpg" alt="Teaser" style="width: 450px;"/> 
+      <img src="imgs/recons.jpg" alt="Teaser" style="width: 450px;"/> 
       <br>
       <em style="font-size: 13px;">  <strong style="font-size: 13px;">Figure 1:</strong> Reconstructed training samples from a multi-class ResNet-18 using SimuDy(rows 1, 3), and the corresponding nearest neighbors from the training set (rows 2, 4).
     </td>
@@ -19,7 +19,7 @@ Whether deep neural networks (DNNs) memorize the training data is a fundamental 
 <table align="center">
   <tr>
     <td align="center"> 
-      <img src="SimuDy.png" alt="Teaser" style="width: 700px;"/> 
+      <img src="imgs/SimuDy.png" alt="Teaser" style="width: 700px;"/> 
       <br>
       <em style="font-size: 16px;">  <strong style="font-size: 16px;">Figure 2:</strong> Overview of our proposed <strong style="font-size: 16px;">SimuDy</strong>.
     </td>
